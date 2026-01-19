@@ -73,3 +73,4 @@ for research and learning workflows.
 6. Generate plots and reports in `reports/`
 
 ---
+"# End to End Pipeline Project" 
